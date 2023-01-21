@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "cronos-query-services"
+version = "0.1.0"
+description = ""
+authors = ["ken timsit <8959282+kentimsit@users.noreply.github.com>"]
+readme = "README.md"
+packages = [{include = "cronos_query_services"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = "^2.28.2"
+python-dotenv = "^0.21.0"
+jupyter = "^1.0.0"
+pandas = "^1.5.2"
+
+
+[tool.poetry.group.dev.dependencies]
+autopep8 = "^2.0.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
