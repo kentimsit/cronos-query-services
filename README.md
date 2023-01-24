@@ -10,6 +10,7 @@ Avaialble services:
 - Subquery
 - Footprint analytics
 - Covalent
+- Unmarshal
 
 For each service a Jupyter notebook is provided.
 
