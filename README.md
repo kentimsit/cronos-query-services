@@ -4,14 +4,14 @@ Examples of services that can be used to query Cronos chain
 
 Avaialble services:
 
-- Cronos explorer
-- Cronoscan
-- Bitquery
-- Subquery
-- Footprint analytics
-- Covalent
-- Unmarshal
-- Moralis
+- Cronos explorer (https://cronos.org/explorer)
+- Cronoscan (https://cronoscan.com)
+- Bitquery (https://bitquery.io/)
+- Subquery (https://subquery.network/)
+- Footprint analytics (https://www.footprint.network/)
+- Covalent (https://www.covalenthq.com/)
+- Unmarshal (https://unmarshal.io/)
+- Moralis (https://moralis.io/)
 
 For each service a Jupyter notebook is provided.
 
