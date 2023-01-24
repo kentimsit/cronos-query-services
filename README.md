@@ -11,6 +11,7 @@ Avaialble services:
 - Footprint analytics
 - Covalent
 - Unmarshal
+- Moralis
 
 For each service a Jupyter notebook is provided.
 
