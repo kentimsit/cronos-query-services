@@ -30,6 +30,7 @@ Update src/processor.ts to bind metrics as explained in the SDK reference: https
 Then upload the processor:
 
 ```
+yarn sentio build
 yarn sentio upload
 ```
 
