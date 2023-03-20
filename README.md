@@ -14,7 +14,8 @@ Available services:
 - Covalent (https://www.covalenthq.com/)
 - Unmarshal (https://unmarshal.io/)
 - Moralis (https://moralis.io/)
-_ 
+- Sentio (https://sentio.xyz)
+- Dappradar (https://api-portal.dappradar.com/home)
 
 For each service a Jupyter notebook, Markdown overview and/or dedicated folder is provided.
 
